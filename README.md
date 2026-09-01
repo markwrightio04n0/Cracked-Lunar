@@ -27,7 +27,6 @@ Lunar Client Alternative is a feature-rich Minecraft client designed to provide 
 - Integrated cosmetics system (cloaks, wings, particles)
 - Built-in mod manager with 50+ pre-configured mods
 - Account management with multiple profiles
-- Seamless server connectivity
 - Custom cloaks, wings, and particle effects
 - Mod browser and installer with auto-updates
 - Quick profile switching
